@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16474041796",
+    "project_id": "loteria-push-hdgs-2026",
+    "storage_bucket": "loteria-push-hdgs-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16474041796:android:a7bc8e146ffdd6b5c64891",
+        "android_client_info": {
+          "package_name": "com.example.loteria_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBk3vxhStugl9rzCCurvr6MxbZgTgRkNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
